@@ -1,0 +1,4 @@
+streamlit>=1.50
+opencv-contrib-python-headless>=4.10,<5
+numpy>=1.26
+pandas>=2.2
